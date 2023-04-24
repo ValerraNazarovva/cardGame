@@ -6,7 +6,7 @@
 body {
 	background-color: rgb(59, 19, 90);
 	font-family: 'Shantell Sans', cursive;
-	background-image: url();
+	background-image: url('/img/backside.jpg');
    background-size: cover;
    background-repeat: no-repeat;
 	
